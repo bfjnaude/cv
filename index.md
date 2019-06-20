@@ -1,4 +1,6 @@
-# Francois Naude (BEng Computer)
+# Curriculum Vitae
+
+## Francois Naude (BEng Computer)
 
 ### Contact Details
 
