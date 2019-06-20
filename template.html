@@ -35,13 +35,9 @@ $endfor$
 $if(math)$
   $math$
 $endif$
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 $for(header-includes)$
   $header-includes$
 $endfor$
-  <script src="yall.min.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", yall);
   </script>
@@ -49,20 +45,6 @@ $endfor$
 <body >
 <div>
 </div>
-<input type="checkbox" class="nav-checkbox" id="nav-checkbox" className="box" />
-<label for="nav-checkbox" class="label-box">
-  <img src="img/ham.svg" alt="toggle menu" class="menu" id="menu" />
-</label>
-<div class="side-nav"> 
-  <nav id="$idprefix$TOC" role="doc-toc"> 
-    $table-of-contents$
-  </nav>
-</div>
-<header class="hero-image">
-    <div class="hero-text">
-       <h1>Campaign Diary</h1>
-    </div>
-</header>
 <div class="container"> 
   $for(include-before)$
   $include-before$
