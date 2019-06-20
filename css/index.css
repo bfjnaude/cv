@@ -1,18 +1,31 @@
 body, html {
     height: 100%;
     scroll-behavior: smooth;
-    background-color: aquamarine;
+    /* background-color: #99dbf5;  */
+    line-height: 2;
+    /* background-image: linear-gradient(to right,  #e8f5fa , #c5ebfc); */
 }
-
 
 /* Style page content */
 .container {
-  margin: 20px auto;
+  /* margin: auto; */
+  right: 0px;
+  bottom: 0px;
   padding: 20px 20px;
   width: 900px;
-  background-color: #fcfcfc;
-  color: #212121;
+  color: #5a5858;
+  background-image: linear-gradient(to left,  #e8f5fa , #d9f1fc);
 } 
+
+section {
+  margin: auto auto 50px auto;
+  /* background-color: #ececec; */
+  border-radius: 5px;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #494949;
+}
 
 
 @media screen and (max-width: 900px) {
@@ -23,9 +36,3 @@ body, html {
 } 
 
 
-footer { 
-  margin-top: 15px;
-  bottom: 0px;
-  height: 20%; 
-  position: relative;
-}
