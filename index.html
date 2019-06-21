@@ -1,187 +1,278 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+	<!--  
+		HEAD 
+	--> 
+    <head>
+        <meta charset="utf-8" />
+        <meta name="generator" content="pandoc" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+        <title>Francois Naude</title>
+        <link
+            rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+            integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+            crossorigin="anonymous"
+        />
+        <link rel="stylesheet" href="./css/index.css" />
+        <script
+            src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"
+        ></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", yall);
+        </script>
+    </head>
 
-<head>
-	<meta charset="utf-8" />
-	<meta name="generator" content="pandoc" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-	<title>Francois Naude</title>
-	<!-- <style>
-		code {
-			white-space: pre-wrap;
-		}
+	<!--  
+		BODY 
+	--> 
+    <body>
+		<!--  
+			NAVBAR 
+		-->
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #185383;">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+                <span class="navbar-toggler-icon"></span>
+			</button>
 
-		span.smallcaps {
-			font-variant: small-caps;
-		}
+			<a class="navbar-brand" href="#"> Resume </a>
 
-		span.underline {
-			text-decoration: underline;
-		}
+            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#personal-summary">Summary</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#skills">Skills</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#tools-technologies">Tools & Technologies</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#employment">Employment</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#education">Education</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#achievements">Achievements</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact-details">Contact</a>
+                    </li>
+                </ul>
+            </div>
+		</nav>
 
-		div.column {
-			display: inline-block;
-			vertical-align: top;
-			width: 50%;
-		}
-	</style> -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-		integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link rel="stylesheet" href="./css/index.css">
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-		integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-		crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-		integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-		crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-		integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-		crossorigin="anonymous"></script>
-	<script>
-		document.addEventListener("DOMContentLoaded", yall);
-	</script>
-</head>
+		<!--  
+			CONTAINER 
+		-->
+        <div class="container">
+            <div class="row main-heading">
+				<div class="col">
+					<h1 id="francois-naude">Francois Naude</h1>
+					<p><em>Software Developer (BEng Computer)</em></p>
+				</div>
+			</div>
 
-<body>
-	<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #185383;">
-		<a class="navbar-brand" href="#"> Resume </a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<ul class="navbar-nav mr-auto">
-				<li class="nav-item">
-					<a class="nav-link" href="#personal-summary">Summary</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#skills">Skills</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#tools-technologies">Tools & Technologies</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#employment">Employment</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#education">Education</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#achievements">Achievements</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#contact-details">Contact</a>
-				</li>
-			</ul>
-		</div>
-	</nav>
-	<div class="container">
-		<h1 id="francois-naude">Francois Naude</h1>
-		<p><em>Software Developer (BEng Computer)</em></p>
-		<h3 id="personal-summary">Personal Summary</h3>
-		<section>
-			<p>A highly efficient and versatile engineering professional, with demonstrated expertise in systems design
-				and implementation. Specialises in problem solving on multiple levels, while maintaining awareness of
-				system wide implications. Built and maintained a reputation of integrity, exceptional work quality and
-				an open approach to design solutions. A go to person for technical recommendations.</p>
-		</section>
-		<h3 id="skills">Skills</h3>
-		<section>
-			<ul>
-				<li>Strong analytical and problem solving skills</li>
-				<li>Prioritising multiple responsibilities, without compromising on work quality</li>
-				<li>Confident working with large code bases and on multiple platforms</li>
-				<li>Proven ability to quickly grasp and apply new technologies or 3rd party APIs</li>
-				<li>Strong communication skills of technical ideas to both technical and non technical colleagues</li>
-				<li>Build and maintain physical and virtual computer networks</li>
-			</ul>
-		</section>
-		<h3 id="tools-technologies">Tools &amp; Technologies</h3>
-		<section>
-			<ul>
-				<li>C, C++ and Lua for Windows (5 years)</li>
-				<li>Microsoft Visual Studio (5 years)</li>
-				<li>Server administration in Windows and Linux (5 years)</li>
-				<li>Golang (1+ year)</li>
-				<li>HTML, JS &amp; CSS (1+ year)</li>
-				<li>ReactJS (1+ year)</li>
-				<li>Postgresql (1+ year)</li>
-				<li>Amazon Web Services (1+ year)
-					<ul>
-						<li>Cloudformation for resource deployment</li>
-						<li>IAM &amp; Cognito for user authentication and authorization</li>
-						<li>Lamda, Elastics Cloud Compute and Elastic Container Service for running functions and
-							containers</li>
-						<li>API Gateway for RESTfull API hosting</li>
-						<li>S3 &amp; Cloudfront for website hosting</li>
-					</ul>
-				</li>
-			</ul>
-		</section>
-		<h3 id="employment">Employment</h3>
-		<section>
-			<h5 id="april-2018---present">April 2018 - Present</h5>
-			<p>Developer at uAfrica.com working on a microservice based software as a service platform for courier
-				logistics.</p>
-			<p><strong>Responsibilities</strong></p>
-			<ul>
-				<li>Microservice design and implementation in Golang</li>
-				<li>RESTful Web API design</li>
-				<li>Designing and maintaining scalable infrastructure on AWS with servers and serverless</li>
-				<li>Implementing frontend for microservice platform using ReactJS and Bootstrap CSS</li>
-			</ul>
-			<h5 id="january-2013---march-2018">January 2013 - March 2018</h5>
-			<p>Computer Engineer at Fifth Dimension Technologies (5DT) working on virtual reality training simulators in
-				C/C++ and Lua for Windows.</p>
-			<p><strong>Responsibilities</strong></p>
-			<ul>
-				<li>SDK development in C/C++</li>
-				<li>Legacy code maintenance in C/C++</li>
-				<li>Finding and fixing bugs in production</li>
-				<li>Product development in Lua and C/C++</li>
-				<li>Product management: drafting specifications and test procedure documents, cooperating with
-					production teams, ensuring that deadlines are met etc.</li>
-				<li>Documentation of codebases</li>
-				<li>Product quality assurance</li>
-				<li>Internal tool development: Helper applications for support teams, diagnostic applications for
-					in-house hardware etc.</li>
-				<li>Network, server and account administrator (Linux &amp; Windows)</li>
-			</ul>
-		</section>
-		<h3 id="education">Education</h3>
-		<section>
-			<ul>
-				<li>Bachelors in Computer Engineering (BEng Computer Cum Laude) at the University of Pretoria(UP) (2009
-					- 2012)</li>
-				<li>Cisco Certified Network Associate 1 to 4 from the University of Pretoria (2009-2010)</li>
-				<li>Cisco Certified Network Professional 1 (2011)</li>
-			</ul>
-		</section>
-		<div class="row">
-			<div class="col-sm-12">
-			<h3 id="achievements">Achievements</h3>
-			<section>
-				<ul>
-					<li>Consistently exceeding performance measures, demonstrated through performance reviews and
-						stakeholder feedback</li>
-					<li>Academic honorary colours from University of Pretoria (2012)</li>
-					<li>Silver Wilhelm Leuschner Prize for academic achievement in Computer Engineering from University of
-						Pretoria (2012)</li>
-					<li>Awarded best third year computer engineering project from University of Pretoria (2011)</li>
-					<li>Silver merit for academic achievement in computer engineering from University of Pretoria (2011)
-					</li>
-				</ul>
-			</section>
-			<h3 id="contact-details">Contact Details</h3>
-			<section class="section-contacts">
-				<p><strong>Mobile Number</strong><br />
-					+27 71 674 9057</p>
-				<p><strong>E-mail</strong><br />
-					mail@bfjnaude.com</p>
-			</section>
-		</div>
-		</div>
-	</div>
-	<footer></footer>
-</body>
+			<!--  
+				SUMMARY 
+			-->
+			<div id="personal-summary">
+				<h3  class="mt-auto">Personal Summary</h3> 
+			</div>
+            <div class="row copy">
+                <section>
+                    <p>
+                        A highly efficient and versatile engineering professional, with demonstrated expertise in
+                        systems design and implementation. Specialises in problem solving on multiple levels, while
+                        maintaining awareness of system wide implications. Built and maintained a reputation of
+                        integrity, exceptional work quality and an open approach to design solutions. A go to person for
+                        technical recommendations.
+                    </p>
+                </section>
+			</div>
 
+			<!--  
+				SKILLS 
+			-->
+			<div id="skills">
+				<h3>Skills</h3>
+			</div>
+            <div class="row copy">
+                <section>
+                    <ul>
+                        <li>Strong analytical and problem solving skills</li>
+                        <li>Prioritising multiple responsibilities, without compromising on work quality</li>
+                        <li>Confident working with large code bases and on multiple platforms</li>
+                        <li>Proven ability to quickly grasp and apply new technologies or 3rd party APIs</li>
+                        <li>
+                            Strong communication skills of technical ideas to both technical and non technical
+                            colleagues
+                        </li>
+                        <li>Build and maintain physical and virtual computer networks</li>
+                    </ul>
+                </section>
+			</div>
+
+			<!--  
+				TOOLS 
+			-->
+			<div id="tools-technologies">
+				<h3 >Tools &amp; Technologies</h3>
+			</div>
+            <div class="row copy">
+                <section>
+                    <ul>
+                        <li>C, C++ and Lua for Windows (5 years)</li>
+                        <li>Microsoft Visual Studio (5 years)</li>
+                        <li>Server administration in Windows and Linux (5 years)</li>
+                        <li>Golang (1+ year)</li>
+                        <li>HTML, JS &amp; CSS (1+ year)</li>
+                        <li>ReactJS (1+ year)</li>
+                        <li>Postgresql (1+ year)</li>
+                        <li>
+                            Amazon Web Services (1+ year)
+                            <ul>
+                                <li>Cloudformation for resource deployment</li>
+                                <li>IAM &amp; Cognito for user authentication and authorization</li>
+                                <li>
+                                    Lamda, Elastics Cloud Compute and Elastic Container Service for running functions
+                                    and containers
+                                </li>
+                                <li>API Gateway for RESTfull API hosting</li>
+                                <li>S3 &amp; Cloudfront for website hosting</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+			</div>
+
+			<!--  
+				EMPLOYMENT
+			-->
+			<div id="employment">
+				<h3 >Employment</h3>
+			</div>
+            <div class="row copy">
+                <section>
+                    <h5 id="april-2018---present">April 2018 - Present</h5>
+                    <p>
+                        Developer at uAfrica.com working on a microservice based software as a service platform for
+                        courier logistics.
+                    </p>
+                    <p><strong>Responsibilities</strong></p>
+                    <ul>
+                        <li>Microservice design and implementation in Golang</li>
+                        <li>RESTful Web API design</li>
+                        <li>Designing and maintaining scalable infrastructure on AWS with servers and serverless</li>
+                        <li>Implementing frontend for microservice platform using ReactJS and Bootstrap CSS</li>
+                    </ul>
+                    <h5 id="january-2013---march-2018">January 2013 - March 2018</h5>
+                    <p>
+                        Computer Engineer at Fifth Dimension Technologies (5DT) working on virtual reality training
+                        simulators in C/C++ and Lua for Windows.
+                    </p>
+                    <p><strong>Responsibilities</strong></p>
+                    <ul>
+                        <li>SDK development in C/C++</li>
+                        <li>Legacy code maintenance in C/C++</li>
+                        <li>Finding and fixing bugs in production</li>
+                        <li>Product development in Lua and C/C++</li>
+                        <li>
+                            Product management: drafting specifications and test procedure documents, cooperating with
+                            production teams, ensuring that deadlines are met etc.
+                        </li>
+                        <li>Documentation of codebases</li>
+                        <li>Product quality assurance</li>
+                        <li>
+                            Internal tool development: Helper applications for support teams, diagnostic applications
+                            for in-house hardware etc.
+                        </li>
+                        <li>Network, server and account administrator (Linux &amp; Windows)</li>
+                    </ul>
+                </section>
+			</div>
+
+			<!--  
+				EDUCATION
+			-->
+			<div id="education">
+				<h3 >Education</h3>
+			</div>
+            <div class="row copy">
+                <section>
+                    <ul>
+                        <li>
+                            Bachelors in Computer Engineering (BEng Computer Cum Laude) at the University of
+                            Pretoria(UP) (2009 - 2012)
+                        </li>
+                        <li>Cisco Certified Network Associate 1 to 4 from the University of Pretoria (2009-2010)</li>
+                        <li>Cisco Certified Network Professional 1 (2011)</li>
+                    </ul>
+                </section>
+			</div>
+
+			<!--  
+				ACHIEVEMENTS
+			-->
+			<div id="achievements">
+				<h3 >Achievements</h3>
+			</div>
+            <div class="row copy">
+                <section>
+                    <ul>
+                        <li>
+                            Consistently exceeding performance measures, demonstrated through performance reviews and
+                            stakeholder feedback
+                        </li>
+                        <li>Academic honorary colours from University of Pretoria (2012)</li>
+                        <li>
+                            Silver Wilhelm Leuschner Prize for academic achievement in Computer Engineering from
+                            University of Pretoria (2012)
+                        </li>
+                        <li>
+                            Awarded best third year computer engineering project from University of Pretoria (2011)
+                        </li>
+                        <li>
+                            Silver merit for academic achievement in computer engineering from University of Pretoria
+                            (2011)
+                        </li>
+                    </ul>
+                </section>
+			</div>
+
+			<!--  
+				CONTACT
+			-->
+			<div id="contact-details">
+				<h3 >Contact Details</h3>
+			</div>
+            <div class="row copy">
+                <section class="section-contacts">
+                    <p>
+                        <strong>Mobile Number</strong><br />
+                        +27 71 674 9057
+                    </p>
+                    <p>
+                        <strong>E-mail</strong><br />
+                        mail@bfjnaude.com
+                    </p>
+                </section>
+            </div>
+        </div>
+        <footer></footer>
+    </body>
 </html>
