@@ -1,5 +1,5 @@
 body, html {
-  /* scroll-behavior: smooth; */
+  scroll-behavior: smooth;
   line-height: 1.9;
   font-size: 105%;
   font-weight: 500;
