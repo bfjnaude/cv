@@ -8,4 +8,8 @@ deploy:
 		--exclude "*.code-workspace" \
 		--exclude "template.html" \
 		--exclude "*.md" \
+		--exclude "*.tex" \
+		--exclude "*.aux" \
+		--exclude "*.log" \
+		--exclude "*.gz" \
 		--profile bfjnaudebackups --delete --acl public-read
