@@ -6,6 +6,8 @@ deploy:
 	aws s3 sync ~/cv/ s3://cv.bfjnaude.com --exclude ".git*" \
 		--exclude "Makefile" \
 		--exclude "*.code-workspace" \
+		--exclude .git \
+		--exclude .gitignore \
 		--exclude "template.html" \
 		--exclude "*.md" \
 		--profile bfjnaudebackups --delete --acl public-read

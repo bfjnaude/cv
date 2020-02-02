@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.22)  22 JUN 2019 10:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.2)  2 FEB 2020 12:42
 entering extended mode
 **./CV_Francois_Naude.tex
 (CV_Francois_Naude.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2019-10-01> patch level 3
 
 ("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cl
 s"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
 ("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo
 "
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -26,7 +26,7 @@ File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 ("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyphenat\hyphen
 at.sty"
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language82
+\langwohyphens=\language78
 LaTeX Info: Redefining \_ on input line 43.
 )
 ("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\append
@@ -38,26 +38,21 @@ Package: appendix 2009/09/02 v1.2b extra appendix facilities
 )
 ("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
 ry.sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
 ("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
 .sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
-f.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvt
-ex.sty"
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxet
-ex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
+("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.
+sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\MetalXor\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.s
+ty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
 \Gm@cnth=\count91
 \Gm@cntv=\count92
 \c@Gm@tempcnt=\count93
@@ -133,8 +128,8 @@ Overfull \hbox (1.9635pt too wide) in paragraph at lines 17--22
  A go to per-son for tech-ni-cal rec-om-men-da-tions. 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 25.
-
+LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 
+25.
 LaTeX Font Info:    No file OMScmss.fd. on input line 25.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
@@ -142,32 +137,38 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              for symbol `textbullet' on input line 25.
 
 
-LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 52.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 52.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 [1
 
 {C:/Users/MetalXor/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 58.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
@@ -177,24 +178,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 893 strings out of 492895
- 13149 string characters out of 3122334
- 82458 words of memory out of 3000000
- 4859 multiletter control sequences out of 15000+200000
- 6713 words of font info for 24 fonts, out of 3000000 for 9000
+ 927 strings out of 492484
+ 13227 string characters out of 3120243
+ 83978 words of memory out of 3000000
+ 5327 multiletter control sequences out of 15000+200000
+ 6354 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,32p,193b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,4n,34p,193b,167s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/MetalXor/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmss10.pfb><C:/Users/MetalXor/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmss12.pfb><C:/Users/MetalXor/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/MetalXor/AppData/
 Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/
-MetalXor/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi
-12.pfb><C:/Users/MetalXor/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb>
-Output written on CV_Francois_Naude.pdf (3 pages, 68071 bytes).
+MetalXor/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on CV_Francois_Naude.pdf (3 pages, 61491 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
-

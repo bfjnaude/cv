@@ -35,6 +35,28 @@ solutions. A go to person for technical recommendations.
 
 ### Employment
 
+##### November 2019 - Present
+
+Senior Developer at TrueVolve Technologies working on legacy system maintenance and feature development of Linux-based C++/Golang services.
+
+**Responsibilities**
+-   Finding and fixing bugs in legacy C++ code
+-   Designing and adding new features to existing APIs in C++ and Golang
+-   Updating protocol documenation
+-   RESTful Web API design
+
+##### April 2018 - October 2019
+
+Developer at uAfrica.com working on a microservice based software as a service platform for courier logistics.
+
+**Responsibilities**
+
+-   Microservice design and implementation in Golang
+-   RESTful Web API design
+-   Designing and maintaining scalable infrastructure on AWS with servers and serverless
+-   Implementing frontend for microservice platform using ReactJS and Bootstrap CSS
+
+
 ##### April 2018 - Present
 
 Developer at uAfrica.com working on a microservice based software as a service platform for courier logistics.
