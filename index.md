@@ -15,35 +15,38 @@ solutions. A go to person for technical recommendations.
 -   Confident working with large code bases and on multiple platforms
 -   Proven ability to quickly grasp and apply new technologies or 3rd party APIs
 -   Strong communication skills of technical ideas to both technical and non technical colleagues
--   Build and maintain physical and virtual computer networks
 
 ### Tools & Technologies
 
--   C, C++ and Lua for Windows (5 years)
--   Microsoft Visual Studio (5 years)
+-   C, C++ and Lua for Windows in Visual Studio (5 years)
 -   Server administration in Windows and Linux (5 years)
--   Golang (1+ year)
+-   Golang (2+ years)
 -   HTML, JS & CSS (1+ year)
 -   ReactJS (1+ year)
--   Postgresql (1+ year)
--   Amazon Web Services (1+ year)
+-   Postgresql & MySQL  (2+ years)
+-   Amazon Web Services (2+ years)
     -   Cloudformation for resource deployment
     -   IAM & Cognito for user authentication and authorization
     -   Lamda, Elastics Cloud Compute and Elastic Container Service for running functions and containers
     -   API Gateway for RESTfull API hosting
-    -   S3 & Cloudfront for website hosting
+    -   S3 & Cloudfront for website hosting 
+-   ISO 20248, x509 and asymmetric and symmetric cryptography (1+ year)
 
 ### Employment
 
 ##### November 2019 - Present
 
-Senior Developer at TrueVolve Technologies working on legacy system maintenance and feature development of Linux-based C++/Golang services.
+Senior Developer at TrueVolve Technologies working on legacy system maintenance and new product development in the ISO 20248 domain.
 
-**Responsibilities**
+**Responsibilities** 
 -   Finding and fixing bugs in legacy C++ code
 -   Designing and adding new features to existing APIs in C++ and Golang
 -   Updating protocol documenation
 -   RESTful Web API design
+-   Reviewing changes to and updating implementations of the ISO 20248 standard 
+-   Designing and implementing an AWS cloud based system
+-   Cross compilation of C and Golang for arm
+-   Wrapping/porting of C and Golang to Java & Kotlin
 
 ##### April 2018 - October 2019
 
