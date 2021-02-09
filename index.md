@@ -31,6 +31,8 @@ solutions. A go to person for technical recommendations.
     -   API Gateway for RESTfull API hosting
     -   S3 & Cloudfront for website hosting 
 -   ISO 20248, x509 and asymmetric and symmetric cryptography (1+ year)
+-   RFID readers
+-   Zebra printers
 
 ### Employment
 
@@ -47,6 +49,7 @@ Senior Developer at TrueVolve Technologies working on legacy system maintenance 
 -   Designing and implementing an AWS cloud based system
 -   Cross compilation of C and Golang for arm
 -   Wrapping/porting of C and Golang to Java & Kotlin
+-   Interfacing with RFID readers and printers
 
 ##### April 2018 - October 2019
 
