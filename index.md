@@ -18,6 +18,8 @@ solutions. A go to person for technical recommendations.
 
 ### Tools & Technologies
 
+-   C, C++ and Lua for Windows in Visual Studio (5 years)
+-   Server administration in Windows and Linux (5 years)
 -   Golang (2+ years)
 -   Postgresql & MySQL  (2+ years)
 -   Amazon Web Services (2+ years)
@@ -26,8 +28,6 @@ solutions. A go to person for technical recommendations.
     -   Lamda, Elastics Cloud Compute and Elastic Container Service for running functions and containers
     -   API Gateway for RESTfull API hosting
     -   S3 & Cloudfront for website hosting 
--   C, C++ and Lua for Windows in Visual Studio (5 years)
--   Server administration in Windows and Linux (5 years)
 -   HTML, JS & CSS (1+ year)
 -   ReactJS (1+ year)
 -   ISO 20248, x509 and asymmetric and symmetric cryptography (1+ year)
