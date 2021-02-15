@@ -43,7 +43,7 @@ Senior Developer at TrueVolve Technologies working on legacy system maintenance 
 **Responsibilities** 
 -   Finding and fixing bugs in legacy C++ code
 -   Designing and adding new features to existing APIs in C++ and Golang
--   Updating protocol documenation
+-   Updating protocol documentation
 -   RESTful Web API design
 -   Reviewing changes to and updating implementations of the ISO 20248 standard 
 -   Designing and implementing an AWS cloud based system
