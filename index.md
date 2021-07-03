@@ -21,7 +21,8 @@ solutions. A go to person for technical recommendations.
 -   C, C++ and Lua for Windows in Visual Studio (5 years)
 -   Server administration in Windows and Linux (5 years)
 -   Golang (2+ years)
--   Postgresql & MySQL  (2+ years)
+-   Rust (<1 year)
+-   Postgresql & MySQL  (3+ years)
 -   Amazon Web Services (2+ years)
     -   Cloudformation for resource deployment
     -   IAM & Cognito for user authentication and authorization
@@ -36,7 +37,15 @@ solutions. A go to person for technical recommendations.
 
 ### Employment
 
-##### November 2019 - Present
+##### May 2021 - Present
+
+Senior Backend Developer at Zulzi On Demand working on backend services for e-commerce delivery platform.
+
+**Responsibilities**
+- Maintaining existing Rust codebase
+- Adding new features and APIs to existing service based platform
+
+##### November 2019 - April 2021
 
 Senior Developer at TrueVolve Technologies working on legacy system maintenance and new product development in the ISO 20248 domain.
 
