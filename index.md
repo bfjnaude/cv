@@ -39,11 +39,11 @@ solutions. A go to person for technical recommendations.
 
 ##### May 2021 - Present
 
-Senior Backend Developer at Zulzi On Demand working on backend services for e-commerce delivery platform.
+Senior Backend Developer at Zulzi On Demand working on backend services for an e-commerce delivery platform.
 
 **Responsibilities**
-- Maintaining existing Rust codebase
-- Adding new features and APIs to existing service based platform
+-   Maintaining existing Rust codebase
+-   Adding new features and APIs to existing service based platform
 
 ##### November 2019 - April 2021
 
