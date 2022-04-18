@@ -18,11 +18,11 @@ solutions. A go to person for technical recommendations.
 
 ### Tools & Technologies
 
+-   Rust (1 year)
+-   Golang (2+ years)
+-   Postgresql & MySQL  (4 years)
 -   C, C++ and Lua for Windows in Visual Studio (5 years)
 -   Server administration in Windows and Linux (5 years)
--   Golang (2+ years)
--   Rust (<1 year)
--   Postgresql & MySQL  (3+ years)
 -   Amazon Web Services (2+ years)
     -   Cloudformation for resource deployment
     -   IAM & Cognito for user authentication and authorization
