@@ -18,12 +18,14 @@ solutions. A go to person for technical recommendations.
 
 ### Tools & Technologies
 
+-   Golang (3+ years)
+-   Kubernetes + Helm (1 year)
 -   Rust (1 year)
--   Golang (2+ years)
 -   Postgresql & MySQL  (4 years)
--   C, C++ and Lua for Windows in Visual Studio (5 years)
+-   C++, msvc and gcc  (5 years)
+-   Lua (5 years)
 -   Server administration in Windows and Linux (5 years)
--   Amazon Web Services (2+ years)
+-   Amazon Web Services (3+ years)
     -   Cloudformation for resource deployment
     -   IAM & Cognito for user authentication and authorization
     -   Lamda, Elastics Cloud Compute and Elastic Container Service for running functions and containers
@@ -32,12 +34,21 @@ solutions. A go to person for technical recommendations.
 -   HTML, JS & CSS (1+ year)
 -   ReactJS (1+ year)
 -   ISO 20248, x509 and asymmetric and symmetric cryptography (1+ year)
--   RFID readers
--   Zebra printers
+-   RFID readers and Zebra RFID printers
 
 ### Employment
 
-##### May 2021 - Present
+##### July 2022 - Present
+
+Senior Software Engineer at Entersekt Pty Ltd. working on backend fintech services to enable safe authentication and authorization.
+
+**Responsibilities**
+-   Maintaining existing Golang codebase
+-   Designing and implementing new cloud & cluster based services according to API specifications
+-   Working as part of a team with a high focus on quality, testing and code review  
+
+
+##### May 2021 - June 2022
 
 Senior Backend Developer at Zulzi On Demand working on backend services for an e-commerce delivery platform.
 
