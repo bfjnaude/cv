@@ -19,7 +19,7 @@ solutions. A go to person for technical recommendations.
 ### Tools & Technologies
 
 -   Golang (3+ years)
--   Kubernetes + Helm (1 year)
+-   Kubernetes + Helm (1+ year)
 -   Rust (1 year)
 -   Postgresql & MySQL  (4 years)
 -   C++, msvc and gcc  (5 years)
@@ -38,7 +38,7 @@ solutions. A go to person for technical recommendations.
 
 ### Employment
 
-##### July 2022 - Present
+##### July 2022 - April 2024
 
 Senior Software Engineer at Entersekt Pty Ltd. working on backend fintech services to enable safe authentication and authorization.
 
@@ -129,7 +129,7 @@ for Windows.
 ### Contact Details
 
 **Mobile Number**  
-+27 71 674 9057
++61 494 067 145
 
 **E-mail**  
 mail@bfjnaude.com
