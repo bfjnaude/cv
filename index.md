@@ -25,7 +25,7 @@ solutions. A go to person for technical recommendations.
 -   C++, msvc and gcc  (5+ years)
 -   Lua (5 years)
 -   Server administration in Windows and Linux (5 years)
--   Amazon Web Services (3+ years)
+-   Amazon Web Services (4+ years)
     -   Cloudformation for resource deployment
     -   IAM & Cognito for user authentication and authorization
     -   Lamda, Elastics Cloud Compute and Elastic Container Service for running functions and containers
