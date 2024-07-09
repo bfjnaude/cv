@@ -18,11 +18,11 @@ solutions. A go to person for technical recommendations.
 
 ### Tools & Technologies
 
--   Golang (3+ years)
+-   Golang (4+ years)
 -   Kubernetes + Helm (1+ year)
 -   Rust (1 year)
 -   Postgresql & MySQL  (4 years)
--   C++, msvc and gcc  (5 years)
+-   C++, msvc and gcc  (5+ years)
 -   Lua (5 years)
 -   Server administration in Windows and Linux (5 years)
 -   Amazon Web Services (3+ years)
